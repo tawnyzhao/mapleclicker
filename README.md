@@ -2,9 +2,9 @@
 A clicker game written in Python, using the simplegui module. 
 
 ## Overview
-This is an idle clicker game with goal to kill a big fish. There multiple characters with unique attacks and many enemies that can be unlocked. Written for a Programming 11 project.\
+This is an idle clicker game with goal to kill a big fish. There multiple characters with unique attacks and many enemies that can be unlocked. Written for a Programming 11 project.
 
-![Preview](image.png)\
+![Preview](image.png)
 
 ## Usage
 There two ways to run the game.
