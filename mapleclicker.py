@@ -163,7 +163,7 @@ damage_numbers = []
 current_bg = BG_IMGS[0]
 # Boolean for whether character has died. Starts game at True. 
 blacked_out = True
-gold = 100000000000
+gold = 0
 level = 1
 bosses_killed = 0 
 # Upgrade costs
